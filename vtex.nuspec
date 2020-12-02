@@ -3,12 +3,10 @@
   <metadata>
     <id>vtex</id>
     <version>2.119.2</version>
-    <title>vtex</title>
-    <!-- <authors>vtex</authors> -->
+    <title>vtex-cli</title>
     <projectUrl>https://github.com/vtex/toolbelt</projectUrl>
-    <iconUrl>https://media-exp1.licdn.com/dms/image/C4D0BAQGz0aS3piLXwQ/company-logo_200_200/0?e=2159024400&v=beta&t=A3sGn5YWxGWehfqQcBAuSgh_8N677xdq0jj9zpJy0d0</iconUrl>
+    <iconUrl>https://i.imgur.com/lYJH1x2.png</iconUrl>
     <tags>vtex</tags>
-    <!-- <summary></summary> -->
     <description>The platform for e-commerce apps</description>
     <requireLicenseAcceptance>false</requireLicenseAcceptance>
   </metadata>
