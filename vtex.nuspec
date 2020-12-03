@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2015/06/nuspec.xsd">
+  <metadata>
+    <id>vtex</id>
+    <version>2.119.2</version>
+    <title>vtex-cli</title>
+    <projectUrl>https://github.com/vtex/toolbelt</projectUrl>
+    <iconUrl>https://i.imgur.com/lYJH1x2.png</iconUrl>
+    <tags>vtex</tags>
+    <description>The platform for e-commerce apps</description>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+  </metadata>
+</package>
